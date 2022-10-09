@@ -11,6 +11,6 @@ ___
  
  # 3 Примеры работы программы
  ____
- ![inmage alt](
- ![inmage alt](
+ ![inmage alt](https://github.com/NowStrongTea/Shifr/blob/master/XcDQHxECT2M.jpg)
+ ![inmage alt](https://github.com/NowStrongTea/Shifr/blob/master/uqvu6FvVQRE.jpg)
  
